@@ -13,5 +13,5 @@ The above parameter gave a maximum accuracy of 0.9933.
 
 ## Submission by
 
-Aarushi Abrol <br>
-102003527
+Name: Aarushi Abrol <br>
+Rollno: 102003527
