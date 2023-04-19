@@ -5,13 +5,13 @@ Choose any multi-class dataset from UCI library. Dataset size must have rows bet
 
 ## Results
 
-Kernel : rbf
-C : 1.098776
-Gamma : 0.349813
+Kernel : rbf <br>
+C : 1.098776 <br>
+Gamma : 0.349813 <br>
 
 The above parameter gave a maximum accuracy of 0.9933.
 
 ## Submission by
 
-Aarushi Abrol
+Aarushi Abrol <br>
 102003527
